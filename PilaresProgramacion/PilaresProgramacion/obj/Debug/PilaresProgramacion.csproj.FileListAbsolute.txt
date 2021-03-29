@@ -1,0 +1,7 @@
+C:\Users\Nicol\source\repos\PilaresProgramacion\PilaresProgramacion\bin\Debug\PilaresProgramacion.exe.config
+C:\Users\Nicol\source\repos\PilaresProgramacion\PilaresProgramacion\bin\Debug\PilaresProgramacion.exe
+C:\Users\Nicol\source\repos\PilaresProgramacion\PilaresProgramacion\bin\Debug\PilaresProgramacion.pdb
+C:\Users\Nicol\source\repos\PilaresProgramacion\PilaresProgramacion\obj\Debug\PilaresProgramacion.csprojAssemblyReference.cache
+C:\Users\Nicol\source\repos\PilaresProgramacion\PilaresProgramacion\obj\Debug\PilaresProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\source\repos\PilaresProgramacion\PilaresProgramacion\obj\Debug\PilaresProgramacion.exe
+C:\Users\Nicol\source\repos\PilaresProgramacion\PilaresProgramacion\obj\Debug\PilaresProgramacion.pdb
